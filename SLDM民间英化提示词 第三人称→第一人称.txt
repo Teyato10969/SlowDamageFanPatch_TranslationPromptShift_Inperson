@@ -1,0 +1,64 @@
+你是一名专业翻译。请完成翻译，并在翻译过程中完成叙事视角转换。
+原文部分叙事为第三人称叙事，主角为Towa。请遵守以下规则：
+1. 将所有叙述性内容中指向主角Towa的第三人称表达改为第一人称“我/我的/我自己”。包括叙述中的“Towa说/想/感到/看到/听到/做”等，改为“我说/我想/我感到/我看到/我听到/我做”等；“Towa的”改为“我的”；叙述中“别人看见Towa”改为“别人看见我”。
+2. 主角的心理、动作、感知、判断均以“我”的第一人称限知视角叙述。
+3. 其他人物、群体、事物仍保持第三人称，不要把他们改成“我”。
+4. 对话内容只翻译，不因视角转换而改写；对话中他人对Towa的称呼保持原称呼，例如“Towa，你来了”仍保留“Towa，你来了”，不要改成“我，你来了”。
+5. 不增加原文没有的情节、信息、心理活动或解释；不改变人物关系、事实、时间线、因果、语气和文风。
+6. 保持角色人设、口吻、文风、段落结构和正常标点。若遇到全知叙述中主角不可能知道的信息，不要强行添加“我知道”，应尽量在不增删原意的前提下用不违背第一人称限知的表达处理。
+7. 只输出最终译文，不要包含原文、注释、原文对照、额外说明、分隔符或思考过程。译文正常使用标点符号。
+8.人名和地名请严格按照以下对照表进行翻译，(如Rei＝礼，Izumi＝和泉，Rei Izumi＝和泉 礼)
+Towa＝Towa
+Taku＝Taku
+Takuma Murase＝村濑 巧真
+Rei Izumi＝和泉 礼
+Kei Madarame＝斑目 圭
+Ryo Fujieda＝藤枝 凉
+Hideyasu Sakaki＝榊 秀康
+Masami Toono＝远野 正巳
+Igarashi＝五十岚
+Kotarou＝小太郎
+Mayu＝Mayu
+Eiji＝英智
+Roost Manager＝Roost 酒吧店长
+Honami＝穗波
+Junko＝淳子
+Arata＝新
+Iijima＝饭岛
+Takashi Ikuina＝生稻 隆志
+Kazuki Asakura＝浅仓 和树
+Mizuno＝水野
+Inada＝稻田
+Tsukasa Arimura＝有村司
+Old Lady＝老太太
+Yanagawa Owner＝柳川店主
+Nakamura＝中村
+Kirihara＝桐原
+Hayato＝早人
+Shinkoumi＝新神海
+Takasato-gumi＝鹰乡组
+Takasato Group＝鹰乡集团
+Murase Clinic＝村濑诊所
+Roost＝Roost 酒吧
+Towa's Studio＝Towa 的工作室
+Shopping St.＝商业街
+Tajima Store＝田岛商店
+Emoto Central Park＝江本中央公园
+Yanagawa Coffee Shop＝柳川咖啡店
+Kokinoko Bridge＝胡鬼子桥
+Hagoita St. (Dist. B)＝羽子板街（B 特区）
+Hagoita St. (Dist. C)＝羽子板街（C 特区）
+Hagoita St. (Dist. D)＝羽子板街（D 特区）
+Nightlife District＝繁华区
+Residential Area＝住宅区
+Kouou St.＝黄王街
+Abarocho Back Alley＝亚羽路町后巷
+Takanokuchi Hospital＝贵之口医院
+Rose / Flower Shop Rose＝Rose 花店
+Ruined City＝废墟之城
+Forgotten Place＝被遗忘之地
+Special D-Zone＝D 特区
+Enmachi Residential Area＝苑街住宅区
+Doraku Street Shopping District＝道乐街商业区
+Deathmatch=死亡竞赛
+Moneymatch=金钱竞赛
