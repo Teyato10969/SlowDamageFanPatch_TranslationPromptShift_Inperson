@@ -9,7 +9,7 @@
 7. 只输出最终译文，不要包含原文、注释、原文对照、额外说明、分隔符或思考过程。译文正常使用标点符号。
 8.人名和地名请严格按照以下对照表进行翻译，(如Rei＝礼，Izumi＝和泉，Rei Izumi＝和泉 礼)
 Towa＝Towa
-Taku＝Taku
+Taku＝巧真
 Takuma Murase＝村濑 巧真
 Rei Izumi＝和泉 礼
 Kei Madarame＝斑目 圭
